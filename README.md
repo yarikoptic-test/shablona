@@ -1,6 +1,8 @@
 ## shablona
 [![Build Status](https://travis-ci.org/uwescience/shablona.svg?branch=master)](https://travis-ci.org/uwescience/shablona)
 
+REsolved the issue by this
+
 Shablona is a template project for small scientific python projects. The
 recommendations we make here follow the standards and conventions of much of
 the scientific Python eco-system. Following these standards and recommendations
